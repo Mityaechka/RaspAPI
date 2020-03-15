@@ -1,0 +1,16 @@
+C:\Users\Mitya\source\repos\RaspAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Mitya\source\repos\RaspAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Mitya\source\repos\RaspAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Mitya\source\repos\RaspAPI\bin\Debug\netcoreapp2.2\RaspAPI.deps.json
+C:\Users\Mitya\source\repos\RaspAPI\bin\Debug\netcoreapp2.2\RaspAPI.runtimeconfig.json
+C:\Users\Mitya\source\repos\RaspAPI\bin\Debug\netcoreapp2.2\RaspAPI.runtimeconfig.dev.json
+C:\Users\Mitya\source\repos\RaspAPI\bin\Debug\netcoreapp2.2\RaspAPI.dll
+C:\Users\Mitya\source\repos\RaspAPI\bin\Debug\netcoreapp2.2\RaspAPI.pdb
+C:\Users\Mitya\source\repos\RaspAPI\obj\Debug\netcoreapp2.2\RaspAPI.csprojAssemblyReference.cache
+C:\Users\Mitya\source\repos\RaspAPI\obj\Debug\netcoreapp2.2\RaspAPI.RazorAssemblyInfo.cache
+C:\Users\Mitya\source\repos\RaspAPI\obj\Debug\netcoreapp2.2\RaspAPI.RazorAssemblyInfo.cs
+C:\Users\Mitya\source\repos\RaspAPI\obj\Debug\netcoreapp2.2\RaspAPI.AssemblyInfoInputs.cache
+C:\Users\Mitya\source\repos\RaspAPI\obj\Debug\netcoreapp2.2\RaspAPI.AssemblyInfo.cs
+C:\Users\Mitya\source\repos\RaspAPI\obj\Debug\netcoreapp2.2\RaspAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Mitya\source\repos\RaspAPI\obj\Debug\netcoreapp2.2\RaspAPI.dll
+C:\Users\Mitya\source\repos\RaspAPI\obj\Debug\netcoreapp2.2\RaspAPI.pdb
